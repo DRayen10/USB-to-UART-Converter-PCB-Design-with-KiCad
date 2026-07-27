@@ -46,4 +46,46 @@ This also works in reverse for serial monitoring and debugging.
 
 ---
 
-## 📁 Repository Structure
+
+---
+
+## 📸 Preview
+Add screenshots of:
+- Schematic  
+- PCB layout  
+- 3D render  
+
+---
+
+## 🚀 Applications
+- Microcontroller programming  
+- Serial debugging  
+- Embedded systems development  
+- IoT prototyping  
+
+---
+
+## ⚠️ Notes
+- Ensure correct TX/RX cross connection:
+  - TX → RX  
+  - RX → TX  
+- Verify voltage levels (3.3V vs 5V compatibility)
+
+---
+
+## 🛠️ Tools Used
+- KiCad (PCB Design)
+- Standard electronic components
+
+---
+
+## 📬 Author
+**Your Name**  
+Embedded Systems & PCB Design Enthusiast  
+
+---
+
+## ⭐ Contribution
+Contributions, suggestions, and improvements are welcome! Feel free to fork this project and enhance it.
+
+---
